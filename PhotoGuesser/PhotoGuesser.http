@@ -1,0 +1,6 @@
+@Flickr_HostAddress = http://localhost:5241
+
+GET {{Flickr_HostAddress}}/api/Flickr/
+Accept: application/json
+
+###
