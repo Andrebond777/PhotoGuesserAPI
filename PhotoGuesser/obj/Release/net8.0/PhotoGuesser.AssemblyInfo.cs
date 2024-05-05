@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhotoGuesser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b69f8b2d0c27ceb0e6a2ce901178f45d831faf4e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8756b6a2e58066774105216f8ce6012ed4ab629")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhotoGuesser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhotoGuesser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
